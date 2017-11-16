@@ -79,3 +79,5 @@ public class DiceHW {
 		return m_numberguesshistory.get(i);
 	}
 }
+
+//good, but too complicated...
